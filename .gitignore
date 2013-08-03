@@ -7,3 +7,5 @@ models
 .settings
 .classpath
 
+bin
+build
